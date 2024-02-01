@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/jordan.dir/jordan.c.o -o jordan  -Wl,-rpath,/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib/release: /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib/release/libmpi.so /usr/lib64/librt.so /usr/lib64/libpthread.so /usr/lib64/libdl.so 
